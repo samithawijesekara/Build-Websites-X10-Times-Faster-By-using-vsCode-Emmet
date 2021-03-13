@@ -1,6 +1,5 @@
 # Build Websites X10 Times Faster By using vsCode & Emmet 💻🚀
 
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/samithawijesekara/Build-Websites-X10-Times-Faster-By-using-vsCode-Emmet?color=green&logo=GitHub"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/samithawijesekara/Build-Websites-X10-Times-Faster-By-using-vsCode-Emmet?logo=Git&logoColor=white">
 
 📕 Please read the [Contribution-Guidelines](contribution.md)
 
