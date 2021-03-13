@@ -16,9 +16,9 @@
   - [g. Using Classes](#g)<br><br>
 
 ## 01. Insatall Emmet Plugin to vsCode ⚙️<a name="install"/>
-Emmet is a plugin for Visual Studio Code text editor that provides a number of tools to help you quickly write HTML and CSS code. Open your vsCode then go to extensions and search Emmet. Install this plugin to your vsCode.<br>
-<img src="img/install.PNG">
+Emmet is a plugin for Visual Studio Code text editor that provides a number of tools to help you quickly write HTML and CSS code. Open your vsCode then go to extensions and search Emmet. Install this plugin to your vsCode.<br><br>
+<img src="img/install.PNG"><br><br><br>
 
 ## 02. Let's start speed up coding 🚀<a name="start"/>
-Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the Tab key and emmet will convert it to the corresponding code.<br>
-<img src="img/start.gif">
+Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the Tab key and emmet will convert it to the corresponding code.<br><br>
+<img src="img/start.gif"><br><br><br>
