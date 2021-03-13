@@ -6,9 +6,14 @@
 
 ### Table of Content
 - [01. Insatall Emmet Plugin to VS Code ⚙️](#install)<br>
-- [02. Let's start speed up coding 🚀](#free)<br>
-- [ a. Shorthand for child elements](#services)<br>
-- [ b. shorthand for sibling](#contributors)<br><br>
+- [02. Let's start speed up coding 🚀](#start)<br>
+  - [a. Shorthand for child elements](#a)<br>
+  - [b. Shorthand for sibling](#b)<br>
+  - [c. Grouping  shorthand](#c)<br>
+  - [d. Numbering shorthand](#d)<br>
+  - [e. Text shorthand](#e)<br>
+  - [f. Using ID](#f)<br>
+  - [g. Using Classes](#g)<br><br>
 
-## What is the importance of free web hosting?<a name="What"/>
+## 01. Insatall Emmet Plugin to VS Code ⚙️<a name="start"/>
 As the name suggests, free website hosting is a free non-paid web hosting service. There are many web hosts who provide subdomains to anyone who wants to make a website. Some of such popular free web hosts include below. As a student or a developer, these services are most useful for day to day projects.<br>
