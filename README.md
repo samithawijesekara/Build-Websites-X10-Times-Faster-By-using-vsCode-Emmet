@@ -23,28 +23,28 @@ Emmet is a plugin for Visual Studio Code text editor that provides a number of t
 Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
 <img src="img/start.gif"><br><br><br>
 
-### a. Shorthand for child elements ✔️<a name="a"/>
+## a. Shorthand for child elements ✔️<a name="a"/>
 Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
 <img src="img/start.gif"><br><br><br>
 
-### b. Shorthand for sibling ✔️<a name="b"/>
+## b. Shorthand for sibling ✔️<a name="b"/>
 Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
 <img src="img/start.gif"><br><br><br>
 
-### c. Grouping  shorthand ✔️<a name="c"/>
+## c. Grouping  shorthand ✔️<a name="c"/>
 Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
 <img src="img/start.gif"><br><br><br>
 
-### d. Numbering shorthand ✔️<a name="d"/>
+## d. Numbering shorthand ✔️<a name="d"/>
 Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
 <img src="img/start.gif"><br><br><br>
 
-### e. Text shorthand ✔️<a name="e"/>
+## e. Text shorthand ✔️<a name="e"/>
 Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
 <img src="img/start.gif"><br><br><br>
 
-### f. Using ID ✔️<a name="f"/>
-If you want to create a div with the id **numbers** then instead of manually typing <div id="numbers">Some content</div>, just type **#numbers** and press the tab key and the entire code will be generated for you.<br><br>
+## f. Using ID ✔️<a name="f"/>
+If you want to create a div with the id **numbers** then instead of manually typing ```<div id="numbers">Some content</div>```, just type **#numbers** and press the tab key and the entire code will be generated for you.<br><br>
 **TYPE :**
 ```
 #numbers
@@ -55,8 +55,8 @@ If you want to create a div with the id **numbers** then instead of manually typ
 ```
 <img src="img/f.gif"><br><br><br>
 
-### g. Using Classes ✔️<a name="g"/>
-If you want to create a div with the class **hero-banner** then instead of manually typing <div class="hero-banner">Some content</div>, just type **.hero-banner** and press the tab key and the entire code will be generated for you.<br><br>
+## g. Using Classes ✔️<a name="g"/>
+If you want to create a div with the class **hero-banner** then instead of manually typing ```<div class="hero-banner">Some content</div>```, just type **.hero-banner** and press the tab key and the entire code will be generated for you.<br><br>
 **TYPE :**
 ```
 .hero-banner
