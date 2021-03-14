@@ -1,8 +1,11 @@
 # Build Websites X10 Times Faster By using vsCode & Emmet 💻🚀
+Speed up your coding..!!
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/samithawijesekara/Free-WebHosting-Services-for-Developers?logo=git&logoColor=white)
 
 📕 Please read the [Contribution-Guidelines](contribution.md)
+
+<img src="img/banner.PNG">
 
 ### Table of Content
 - [01. Insatall Emmet Plugin to vsCode ⚙️](#install)<br>
