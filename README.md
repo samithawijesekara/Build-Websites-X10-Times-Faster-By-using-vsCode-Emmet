@@ -24,24 +24,118 @@ Emmet is increases your productivity to a great extent so you don’t have to ty
 <img src="img/start.gif"><br><br><br>
 
 ## a. Shorthand for child elements ✔️<a name="a"/>
-Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
-<img src="img/start.gif"><br><br><br>
+If you want to create a child elements, just type **nav>ul>li** like this and press the tab key and the entire code will be generated for you.<br><br>
+**TYPE :**
+```
+nav>ul>li
+```
+**OUT PUT :**
+```
+    <nav>
+        <ul>
+            <li></li>
+        </ul>
+    </nav>
+``` 
+<br><br><br>
+If you want to create a child elements you have anoter method.<br><br>
+**TYPE :**
+```
+div>p*3
+```
+**OUT PUT :**
+```
+    <div>
+        <p></p>
+        <p></p>
+        <p></p>
+    </div>
+```
+<img src="img/a_b.gif"><br><br><br>
+
 
 ## b. Shorthand for sibling ✔️<a name="b"/>
-Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
-<img src="img/start.gif"><br><br><br>
+If you want to create a sibling elements, just type **header+main+footer** like this and press the tab key and the entire code will be generated for you.<br><br>
+**TYPE :**
+```
+header+main+footer
+```
+**OUT PUT :**
+```
+  <header></header>
+  <main></main>
+  <footer></footer>
+``` 
+<br><br><br>
 
-## c. Grouping  shorthand ✔️<a name="c"/>
-Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
-<img src="img/start.gif"><br><br><br>
+## c. Grouping shorthand ✔️<a name="c"/>
+If you want to create a grouping shorthand elements you have method like this.<br><br>
+**TYPE :**
+```
+div*4>h2+ul>li*2
+```
+**OUT PUT :**
+```
+<div>
+    <h2></h2>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<div>
+    <h2></h2>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<div>
+    <h2></h2>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+<div>
+    <h2></h2>
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>
+</div>
+``` 
+<img src="img/c.gif"><br><br><br>
 
 ## d. Numbering shorthand ✔️<a name="d"/>
-Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
-<img src="img/start.gif"><br><br><br>
+If you want to create a numbering shorthand you have method like this.<br><br>
+**TYPE :**
+```
+ul>li.item$*4
+```
+**OUT PUT :**
+```
+<ul>
+    <li class="item1"></li>
+    <li class="item2"></li>
+    <li class="item3"></li>
+    <li class="item4"></li>
+</ul>
+``` 
+<img src="img/d.gif"><br><br><br>
+
 
 ## e. Text shorthand ✔️<a name="e"/>
-Emmet is increases your productivity to a great extent so you don’t have to type the same repetitive code again and again. We just have to type the abbreviation and press the TAB KEY/ ENTER KEY and emmet will convert it to the corresponding code. **To get the basic structure of HTML page you type ! and press TAB KEY/ ENTER KEY.**<br><br>
-<img src="img/start.gif"><br><br><br>
+If you want to create a text shorthand you have method like this.<br><br>
+**TYPE :**
+```
+p>{Click }+a{here}+{ to continue}
+```
+**OUT PUT :**
+```
+<p>Click <a href="">here</a> to continue</p>
+``` 
+<img src="img/e.gif"><br><br><br>
 
 ## f. Using ID ✔️<a name="f"/>
 If you want to create a div with the id **numbers** then instead of manually typing ```<div id="numbers">Some content</div>```, just type **#numbers** and press the tab key and the entire code will be generated for you.<br><br>
